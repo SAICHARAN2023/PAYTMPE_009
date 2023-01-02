@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+
+<listener class-name="Sample_Util.EXTENT_REPORTS"></listener>
+
+</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+       <class name="sample.DASHBOARD_01"/>
+        <class name="sample.SEND_MONEY"/>
+         <class name="sample.EXCHANGE_MONEY"/>
+            <class name="sample.WIRE_TRANSFER"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

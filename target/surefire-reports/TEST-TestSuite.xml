@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="283.303" tests="49" errors="0" skipped="24" failures="1">
+  <properties>
+    <property name="JOB_NAME" value="saicharan_01"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://localhost:8080/job/saicharan_01/2/display/redirect?page=tests"/>
+    <property name="NUMBER_OF_PROCESSORS" value="4"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\u\.jenkins"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="HUDSON_SERVER_COOKIE" value="1e014054ee1a76b4"/>
+    <property name="POM_ARTIFACTID" value="PAYTMPE_001"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="POM_DISPLAYNAME" value="sample"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="TEMP" value="C:\Users\u\AppData\Local\Temp"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="java.runtime.version" value="17.0.5+9-LTS-191"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="user.name" value="u"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="saicharan_01"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/saicharan_01/2/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="OneDrive" value="C:\Users\u\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="LOCALAPPDATA" value="C:\Users\u\AppData\Local"/>
+    <property name="java.version" value="17.0.5"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="USERNAME" value="u"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="PERL5LIB" value="C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib;C:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3;C:\oracle\product\10.2.0\db_1\perl\site\5.8.3\lib;C:\oracle\product\10.2.0\db_1\sysman\admin\scripts;C:\SQL\perl\5.8.3\lib\MSWin32-x86;C:\SQL\perl\5.8.3\lib;C:\SQL\perl\5.8.3\lib\MSWin32-x86;C:\SQL\perl\site\5.8.3;C:\SQL\perl\site\5.8.3\lib;C:\SQL\sysman\admin\scripts;E:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;E:\oracle\product\10.2.0\db_1\perl\5.8.3\lib;E:\oracle\product\10.2.0\db_1\perl\5.8.3\lib\MSWin32-x86;E:\oracle\product\10.2.0\db_1\perl\site\5.8.3;E:\oracle\product\10.2.0\db_1\perl\site\5.8.3\lib;E:\oracle\product\10.2.0\db_1\sysman\admin\scripts;"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="maven.conf" value="C:\Users\u\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\C_apache-maven-3.8.7-bin_apache-maven-3.8.7\conf"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="61.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17.0.5"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="os.version" value="10.0"/>
+    <property name="=ExitCode" value="00000001"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/saicharan_01/2/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\u\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://localhost:8080/job/saicharan_01/2/display/redirect?page=artifacts"/>
+    <property name="java.vm.version" value="17.0.5+9-LTS-191"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/saicharan_01/display/redirect"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-1D3CBA8"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-17.0.5"/>
+    <property name="ComSpec" value="C:\Windows\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\u"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="COMPUTERNAME" value="DESKTOP-1D3CBA8"/>
+    <property name="user.script" value=""/>
+    <property name="POM_GROUPID" value="com.sample"/>
+    <property name="user.home" value="C:\Users\u"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-saicharan_01-2"/>
+    <property name="JENKINS_SERVER_COOKIE" value="1e014054ee1a76b4"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\u"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17.0.5\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\u\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\C_apache-maven-3.8.7-bin_apache-maven-3.8.7/bin;C:\Program Files\Java\jdk-17.0.5/bin;C:\Program Files\Java\jdk-17.0.5/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oracle_data\product\bin;E:\oracle\product\10.2.0\db_1\bin;C:\oracle_data\product\10.2.0\bin;C:\oracle\product\10.2.0\db_2\bin;C:\oracle\product\10.2.0\db_1\bin;C:\SQL\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\apache-maven-3.8.7-bin\apache-maven-3.8.7\bin;C:\Program Files\Java\jdk-17.0.5\bin;C:\Users\u\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\u\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Users\u\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\C_apache-maven-3.8.7-bin_apache-maven-3.8.7"/>
+    <property name="java.class.path" value="C:\Users\u\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.14.jar;C:\Users\u\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\C_apache-maven-3.8.7-bin_apache-maven-3.8.7\boot\plexus-classworlds-2.6.0.jar;C:\Users\u\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\C_apache-maven-3.8.7-bin_apache-maven-3.8.7/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\u\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\C_apache-maven-3.8.7-bin_apache-maven-3.8.7 C:\Users\u\.jenkins\war\WEB-INF\lib\remoting-3071.v7e9b_0dc08466.jar C:\Users\u\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar C:\Users\u\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar 59833"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-17.0.5/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oracle_data\product\bin;E:\oracle\product\10.2.0\db_1\bin;C:\oracle_data\product\10.2.0\bin;C:\oracle\product\10.2.0\db_2\bin;C:\oracle\product\10.2.0\db_1\bin;C:\SQL\bin;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\apache-maven-3.8.7-bin\apache-maven-3.8.7\bin;C:\Program Files\Java\jdk-17.0.5\bin;C:\Users\u\AppData\Local\Microsoft\WindowsApps;"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-17.0.5/bin"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 9, GenuineIntel"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="M2_HOME" value="C:\Users\u\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\C_apache-maven-3.8.7-bin_apache-maven-3.8.7"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="CI" value="true"/>
+    <property name="java.io.tmpdir" value="C:\Users\u\AppData\Local\Temp\"/>
+    <property name="HUDSON_HOME" value="C:\Users\u\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Users\u\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\C_apache-maven-3.8.7-bin_apache-maven-3.8.7/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/saicharan_01/2/"/>
+    <property name="SystemRoot" value="C:\Windows"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="user.dir" value="C:\Users\u\Desktop\PAYTMPE\PAYTMPE_001"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/saicharan_01/"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-1D3CBA8"/>
+    <property name="UIPATH_LANGUAGE" value="en"/>
+    <property name="USERDOMAIN" value="DESKTOP-1D3CBA8"/>
+    <property name="MAVEN_HOME" value="C:\Users\u\.jenkins\tools\hudson.tasks.Maven_MavenInstallation\C_apache-maven-3.8.7-bin_apache-maven-3.8.7"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="PROCESSOR_REVISION" value="8e09"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\Windows"/>
+    <property name="=C:" value="C:\jenkins"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\u\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\u\.jenkins\workspace\saicharan_01@tmp"/>
+    <property name="UIPATH_USER_SERVICE_PATH" value="C:\Users\u\AppData\Local\Programs\UiPath\Studio\UiPath.Service.UserHost.exe"/>
+    <property name="WORKSPACE" value="C:\Users\u\.jenkins\workspace\saicharan_01"/>
+    <property name="maven3.interceptor.common" value="C:\Users\u\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase name="login" classname="sample.DASHBOARD_01" time="37.698">
+    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;email&apos;]&quot;}&#10;  (Session info: MicrosoftEdge=108.0.1462.54)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.6.0&apos;, revision: &apos;79f1c02ae20&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name=&apos;email&apos;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 723ca7aa9fbdf699479d0b1a44cd6587" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='email']"}
+  (Session info: MicrosoftEdge=108.0.1462.54)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.6.0', revision: '79f1c02ae20'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name='email']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 723ca7aa9fbdf699479d0b1a44cd6587
+</failure>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting Microsoft Edge WebDriver 108.0.1462.54 (c2998c8c661724d797c22f48cf555a2bef5029ee) on port 3271
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+Microsoft Edge WebDriver was started successfully.
+Jan 02, 2023 10:53:14 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 108, so returning the closest version found: 107
+]]></system-err>
+  </testcase>
+  <testcase name="login" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="login" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="login" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="login" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="login" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="login" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="login" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="SUPPORTTICKET" classname="sample.DASHBOARD_01" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;email&apos;]&quot;}&#10;  (Session info: MicrosoftEdge=108.0.1462.54)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.6.0&apos;, revision: &apos;79f1c02ae20&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name=&apos;email&apos;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 723ca7aa9fbdf699479d0b1a44cd6587"/>
+  </testcase>
+  <testcase name="SUPPORTTICKET" classname="sample.DASHBOARD_01" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;email&apos;]&quot;}&#10;  (Session info: MicrosoftEdge=108.0.1462.54)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.6.0&apos;, revision: &apos;79f1c02ae20&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name=&apos;email&apos;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 723ca7aa9fbdf699479d0b1a44cd6587"/>
+  </testcase>
+  <testcase name="SUPPORTTICKET" classname="sample.DASHBOARD_01" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;email&apos;]&quot;}&#10;  (Session info: MicrosoftEdge=108.0.1462.54)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.6.0&apos;, revision: &apos;79f1c02ae20&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name=&apos;email&apos;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 723ca7aa9fbdf699479d0b1a44cd6587"/>
+  </testcase>
+  <testcase name="SUPPORTTICKET" classname="sample.DASHBOARD_01" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;email&apos;]&quot;}&#10;  (Session info: MicrosoftEdge=108.0.1462.54)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.6.0&apos;, revision: &apos;79f1c02ae20&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name=&apos;email&apos;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 723ca7aa9fbdf699479d0b1a44cd6587"/>
+  </testcase>
+  <testcase name="SUPPORTTICKET" classname="sample.DASHBOARD_01" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;email&apos;]&quot;}&#10;  (Session info: MicrosoftEdge=108.0.1462.54)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.6.0&apos;, revision: &apos;79f1c02ae20&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name=&apos;email&apos;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 723ca7aa9fbdf699479d0b1a44cd6587"/>
+  </testcase>
+  <testcase name="SUPPORTTICKET" classname="sample.DASHBOARD_01" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;email&apos;]&quot;}&#10;  (Session info: MicrosoftEdge=108.0.1462.54)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.6.0&apos;, revision: &apos;79f1c02ae20&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name=&apos;email&apos;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 723ca7aa9fbdf699479d0b1a44cd6587"/>
+  </testcase>
+  <testcase name="SUPPORTTICKET" classname="sample.DASHBOARD_01" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;email&apos;]&quot;}&#10;  (Session info: MicrosoftEdge=108.0.1462.54)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.6.0&apos;, revision: &apos;79f1c02ae20&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name=&apos;email&apos;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 723ca7aa9fbdf699479d0b1a44cd6587"/>
+  </testcase>
+  <testcase name="SUPPORTTICKET" classname="sample.DASHBOARD_01" time="0">
+    <skipped message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//input[@name=&apos;email&apos;]&quot;}&#10;  (Session info: MicrosoftEdge=108.0.1462.54)&#10;For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element&#10;Build info: version: &apos;4.6.0&apos;, revision: &apos;79f1c02ae20&apos;&#10;System info: os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.5&apos;&#10;Driver info: org.openqa.selenium.edge.EdgeDriver&#10;Command: [723ca7aa9fbdf699479d0b1a44cd6587, findElement {using=xpath, value=//input[@name=&apos;email&apos;]}]&#10;Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 108.0.1462.54, ms:edgeOptions: {debuggerAddress: localhost:59848}, msedge: {msedgedriverVersion: 108.0.1462.54 (c2998c8c6617..., userDataDir: C:\Users\u\AppData\Local\Te...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59848/devtoo..., se:cdpVersion: 108.0.1462.54, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 723ca7aa9fbdf699479d0b1a44cd6587"/>
+  </testcase>
+  <testcase name="logout" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="logout" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="logout" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="logout" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="logout" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="logout" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="logout" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="logout" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="Teardown" classname="sample.DASHBOARD_01" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="SENDMONEY" classname="sample.SEND_MONEY" time="4.2"/>
+  <testcase name="SENDMONEY" classname="sample.SEND_MONEY" time="3.586"/>
+  <testcase name="SENDMONEY" classname="sample.SEND_MONEY" time="5.3"/>
+  <testcase name="SENDMONEY" classname="sample.SEND_MONEY" time="4.263"/>
+  <testcase name="SENDMONEY" classname="sample.SEND_MONEY" time="4.004"/>
+  <testcase name="SENDMONEY" classname="sample.SEND_MONEY" time="3.602"/>
+  <testcase name="SENDMONEY" classname="sample.SEND_MONEY" time="3.775"/>
+  <testcase name="SENDMONEY" classname="sample.SEND_MONEY" time="3.626"/>
+  <testcase name="EXCHANGEMONEY" classname="sample.EXCHANGE_MONEY" time="4.325"/>
+  <testcase name="EXCHANGEMONEY" classname="sample.EXCHANGE_MONEY" time="3.887"/>
+  <testcase name="EXCHANGEMONEY" classname="sample.EXCHANGE_MONEY" time="3.955"/>
+  <testcase name="EXCHANGEMONEY" classname="sample.EXCHANGE_MONEY" time="4.015"/>
+  <testcase name="EXCHANGEMONEY" classname="sample.EXCHANGE_MONEY" time="4.119"/>
+  <testcase name="EXCHANGEMONEY" classname="sample.EXCHANGE_MONEY" time="3.9"/>
+  <testcase name="EXCHANGEMONEY" classname="sample.EXCHANGE_MONEY" time="3.951"/>
+  <testcase name="EXCHANGEMONEY" classname="sample.EXCHANGE_MONEY" time="4.04"/>
+  <testcase name="WIRETRANS" classname="sample.WIRE_TRANSFER" time="3.772"/>
+  <testcase name="WIRETRANS" classname="sample.WIRE_TRANSFER" time="3.201"/>
+  <testcase name="WIRETRANS" classname="sample.WIRE_TRANSFER" time="4.327"/>
+  <testcase name="WIRETRANS" classname="sample.WIRE_TRANSFER" time="3.438"/>
+  <testcase name="WIRETRANS" classname="sample.WIRE_TRANSFER" time="3.121"/>
+  <testcase name="WIRETRANS" classname="sample.WIRE_TRANSFER" time="3.825"/>
+  <testcase name="WIRETRANS" classname="sample.WIRE_TRANSFER" time="3.506"/>
+  <testcase name="WIRETRANS" classname="sample.WIRE_TRANSFER" time="3.237"/>
+</testsuite>
