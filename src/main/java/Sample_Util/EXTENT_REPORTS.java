@@ -65,12 +65,12 @@ public class EXTENT_REPORTS implements ITestListener {
 	}
    
    public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
-		// TODO Auto-generated method stub
+	
 	
 	}
 
 	public void onTestFailedWithTimeout(ITestResult result) {
-		// TODO Auto-generated method stub
+	
 		
 	}
 

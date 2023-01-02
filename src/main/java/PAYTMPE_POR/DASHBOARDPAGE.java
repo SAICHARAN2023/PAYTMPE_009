@@ -12,7 +12,7 @@ public class DASHBOARDPAGE extends BaseClass {
 
 	public DASHBOARDPAGE(WebDriver driver) {
 		super(driver);
-		//http://paytmpe.qagithub.xyz/
+		
 	}
 	
 	

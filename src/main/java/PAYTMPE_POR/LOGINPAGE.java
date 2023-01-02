@@ -10,7 +10,7 @@ public class LOGINPAGE extends BaseClass{
 
 	public LOGINPAGE(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	

@@ -10,7 +10,7 @@ public class LOANS_NEW_LOAN_PAGE01  extends BaseClass{
 
 	public LOANS_NEW_LOAN_PAGE01(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	//span[@class='fake_datepicker']

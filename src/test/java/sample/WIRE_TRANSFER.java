@@ -19,14 +19,21 @@ public class WIRE_TRANSFER extends BASECLASS_ATEST {
 		
 		DASHBOARDPAGE UDP1=new DASHBOARDPAGE(driver);
 		UDP1.User_WireTransferLink();
+		logger.info("clicked on wire transfer");
 		WIRE_TRASFER_PAGE  WTP=new WIRE_TRASFER_PAGE(driver);
 		
 		WTP.User_OTHER_BANKLink(U_value1);
+		logger.info("written bank name id");
 		WTP.user_account_numberLink(U_accno1);
+		logger.info("written other bank accno id");
 		WTP.User_holder_nameLink(U_name);
+		logger.info("written holder name id");
 		WTP.User_amountLink(U_amount1);
+		logger.info("written amount to be accept id");
 		WTP.User_NoteLink(Note);
+		logger.info("written notes in Para");
 		WTP.User_SubmitLink();
+		logger.info("clicked on submit");
 	}
 	
 	@DataProvider(name = "WIREMONEY")

@@ -10,7 +10,7 @@ public class NEW_PAYMENT_REQPAGE extends BaseClass {
 
 	public NEW_PAYMENT_REQPAGE(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	@FindBy(xpath="//input[@name='receiver_account']")

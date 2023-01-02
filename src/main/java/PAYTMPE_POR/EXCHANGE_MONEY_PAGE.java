@@ -12,7 +12,7 @@ public class EXCHANGE_MONEY_PAGE extends BaseClass {
 
 	public EXCHANGE_MONEY_PAGE(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
+	
 	}
 	WEBDRIVERUTILITY WDU=new WEBDRIVERUTILITY();
 	

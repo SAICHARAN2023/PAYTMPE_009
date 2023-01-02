@@ -11,7 +11,7 @@ public class SEND_MONEY_PAGE extends BaseClass {
 
 	public SEND_MONEY_PAGE(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
+		
 	}
 	//*[@id="main_alert"]
 	WEBDRIVERUTILITY WDU=new WEBDRIVERUTILITY();

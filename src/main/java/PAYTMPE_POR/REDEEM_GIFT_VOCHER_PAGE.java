@@ -10,7 +10,7 @@ public class REDEEM_GIFT_VOCHER_PAGE extends BaseClass {
 
 	public REDEEM_GIFT_VOCHER_PAGE(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	

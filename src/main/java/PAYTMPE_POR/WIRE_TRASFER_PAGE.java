@@ -12,7 +12,7 @@ public class WIRE_TRASFER_PAGE extends BaseClass {
 
 	public WIRE_TRASFER_PAGE(WebDriver driver) {
 		super(driver);
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	WEBDRIVERUTILITY WDU=new WEBDRIVERUTILITY();
