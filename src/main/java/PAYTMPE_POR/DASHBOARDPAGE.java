@@ -45,6 +45,10 @@ public class DASHBOARDPAGE extends BaseClass {
 	@FindBy(xpath="//a[text()[normalize-space()='Payment Request']]")
 	WebElement User_PaymentRequestLink;
 	
+	@FindBy(xpath="//a[.='New Request']")
+	WebElement User_newPaymentLink;
+	
+	//a[.='New Request']
 	//test-7
 	
 	@FindBy(xpath="//a[text()[normalize-space()='Deposit Money']]")
@@ -186,6 +190,11 @@ public class DASHBOARDPAGE extends BaseClass {
 		
 		public void  User_PaymentRequestLink() {
 			User_PaymentRequestLink.click();
+		}
+		
+		
+		public void User_newPaymentLink() {
+			User_newPaymentLink.click();
 		}
 		
 		

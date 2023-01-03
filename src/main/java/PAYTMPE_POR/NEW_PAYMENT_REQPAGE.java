@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 import Sample_Util.BaseClass;
+import Sample_Util.WEBDRIVERUTILITY;
 
 public class NEW_PAYMENT_REQPAGE extends BaseClass {
 
@@ -13,11 +14,13 @@ public class NEW_PAYMENT_REQPAGE extends BaseClass {
 		
 	}
 	
+	WEBDRIVERUTILITY WDU=new WEBDRIVERUTILITY();
+	
 	@FindBy(xpath="//input[@name='receiver_account']")
 	WebElement user_receiver_accountLink;
 	
-	@FindBy(xpath="//span[@role='presentation']")
-	WebElement User_presentationLink;
+	@FindBy(xpath="//select[@name='currency_id']")
+	WebElement User_Currency_idLink;
 	
 	@FindBy(xpath="//input[@name='amount']")
 	WebElement User_amountLink;
@@ -50,8 +53,9 @@ public class NEW_PAYMENT_REQPAGE extends BaseClass {
 	}
 	
 	
-	public void User_presentationLink() {
-		User_presentationLink.click();
+	public void User_Currency_idLink(String text) {
+		WDU.Handledropdownby(text, User_Currency_idLink);
+		
 	}
 	
 	
