@@ -12,6 +12,7 @@
         <class name="sample.SEND_MONEY"/>
          <class name="sample.EXCHANGE_MONEY"/>
             <class name="sample.WIRE_TRANSFER"/>
+             <class name="sample.PAYMENT_REQUEST"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
