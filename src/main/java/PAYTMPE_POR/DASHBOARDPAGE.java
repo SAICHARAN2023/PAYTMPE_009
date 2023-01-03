@@ -162,24 +162,35 @@ public class DASHBOARDPAGE extends BaseClass {
 		
 		public void  User_CreateNewTicketLink() {
 			
-			User_CreateNewTicketLink.click();
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", User_CreateNewTicketLink);
 			
 		}
 		
 		
 		
 		public void  User_FixedDepositLink() {
-			User_FixedDepositLink.click();
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", User_FixedDepositLink);
+			
+	
 		}
 		
 		
 		public void  User_LoansLink() {
-			User_LoansLink.click();
+			
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", User_LoansLink);
+			
+		
 		}
 		
 		
 		public void  WithdrawMoneyLink() {
-			WithdrawMoneyLink.click();
+			
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", WithdrawMoneyLink);
+
 		}
 		
 		
@@ -189,37 +200,65 @@ public class DASHBOARDPAGE extends BaseClass {
 		
 		
 		public void  User_PaymentRequestLink() {
-			User_PaymentRequestLink.click();
+			
+
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", User_PaymentRequestLink);
+			
+			
 		}
 		
 		
 		public void User_newPaymentLink() {
-			User_newPaymentLink.click();
+			
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", User_newPaymentLink);
+			
 		}
 		
 		
 		public void  User_WireTransferLink() {
-			User_WireTransferLink.click();
+			
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", User_WireTransferLink);
+			
+			
 		}
 		
 		
 		public void  User_ExchangeMoneyLink() {
-			User_ExchangeMoneyLink.click();
+			
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", User_ExchangeMoneyLink);
+			
+		
 		}
 		
 		
 		public void  User_SendMoneyLink() {
-			User_SendMoneyLink.click();
+			
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();",User_SendMoneyLink);
+			
+			
 		}
 		
 		
 		public void  User_DashboardLink() {
-			User_DashboardLink.click();
+			
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", User_DashboardLink);
+			
+
 		}
 		
 		
 		public void  User_LinesLink() {
-			User_LinesLink.click();
+			
+			 JavascriptExecutor executor = (JavascriptExecutor) driver;
+			  executor.executeScript("arguments[0].click();", User_LinesLink);
+			
+			
 		}
 		
 
