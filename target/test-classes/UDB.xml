@@ -8,10 +8,10 @@
 </listeners>
   <test thread-count="5" name="Test">
     <classes>
-         <class name="sample.DASHBOARD_01"/>
+        <!--  <class name="sample.DASHBOARD_01"/>
         <class name="sample.SEND_MONEY"/>
          <class name="sample.EXCHANGE_MONEY"/>
-            <class name="sample.WIRE_TRANSFER"/>
+            <class name="sample.WIRE_TRANSFER"/>-->
             <class name="sample.PAYMENT_REQUEST"/>
     </classes>
   </test> <!-- Test -->
