@@ -3,6 +3,7 @@ package PAYTMPE_POR;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.testng.Assert;
 
 import Sample_Util.BaseClass;
 import Sample_Util.WEBDRIVERUTILITY;
@@ -36,6 +37,16 @@ public class SEND_MONEY_PAGE extends BaseClass {
 	
 	@FindBy(xpath="//button[@type='submit']")
 	WebElement User_submitLink;
+	
+	
+	@FindBy(xpath="//span[@class='msg']")
+	WebElement User_ticketcreatedsucessfully;
+	
+	public void  User_MoneyTransferedsucessfully() {
+		String p1=User_ticketcreatedsucessfully.getText();
+		Assert.assertEquals(p1, "Money Transfered Successfully");
+	}
+	
 	
 	public void user_mainalertLink() {
 		user_mainalertLink.click();

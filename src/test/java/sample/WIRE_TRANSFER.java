@@ -34,6 +34,8 @@ public class WIRE_TRANSFER extends BASECLASS_ATEST {
 		logger.info("written notes in Para");
 		WTP.User_SubmitLink();
 		logger.info("clicked on submit");
+		WTP.User_Wiretransfersucessfully();
+		logger.info("page vaidated");
 	}
 	
 	@DataProvider(name = "WIREMONEY")

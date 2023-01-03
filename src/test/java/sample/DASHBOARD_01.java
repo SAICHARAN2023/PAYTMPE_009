@@ -3,7 +3,7 @@ package sample;
 import java.io.IOException;
 
 import org.apache.poi.EncryptedDocumentException;
-
+import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
@@ -38,7 +38,8 @@ public class DASHBOARD_01 extends BASECLASS_ATEST {
 		//UCNT.User_BrowseLink();
 		UCNT.User_SubmitLink();
 		logger.info(" clicked on submit id");
-		
+		UCNT.User_ticketcreatedsucessfully();
+		logger.info(" clicked on tickt created suceesfully");
 	}
 	
 

@@ -35,6 +35,8 @@ public class PAYMENT_REQUEST extends BASECLASS_ATEST {
 		logger.info("written notes paragraph");
 		NPR.User_SubmitLink();
 		logger.info("clicked on submit");
+		NPR.User_Paymentrequestsucessfully();
+		logger.info("page vaidated");
 	}
 	
 	

@@ -4,6 +4,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.testng.Assert;
 
 import Sample_Util.BaseClass;
 import Sample_Util.WEBDRIVERUTILITY;
@@ -35,6 +36,16 @@ public class WIRE_TRASFER_PAGE extends BaseClass {
 	
 	@FindBy(xpath="//button[@type='submit']")
 	WebElement User_submitLink;
+	
+	
+	@FindBy(xpath="//span[@class='msg']")
+	WebElement User_ticketcreatedsucessfully;
+	
+	public void  User_Wiretransfersucessfully() {
+		String p1=User_ticketcreatedsucessfully.getText();
+		Assert.assertEquals(p1, "Your Transfer Request send sucessfully. You will notified after reviewing by authority.");
+	}
+	
 	
 	public void User_SubmitLink() {
 		 JavascriptExecutor executor = (JavascriptExecutor) driver;

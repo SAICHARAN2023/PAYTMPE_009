@@ -32,6 +32,8 @@ public class EXCHANGE_MONEY extends BASECLASS_ATEST {
 		logger.info("write on note to be");
 		SMP.User_SubmitLink();
 		logger.info("clicked on submit button");
+		SMP.User_MoneyExchangesucessfully();
+		logger.info("page vaidated");
 	}
 	
 	@DataProvider(name = "EXCHANGEMONEY")

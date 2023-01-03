@@ -42,7 +42,7 @@ public class EXTENT_REPORTS implements ITestListener {
 		test.log(Status.SKIP, result.getThrowable());		
 	}
    
-   public void onTestFailure(ITestResult result) {
+  /* public void onTestFailure(ITestResult result) {
 	   
 	  // String msg=result.getMethod().toString();
 	   String methodName=result.getMethod().getMethodName();
@@ -62,6 +62,32 @@ public class EXTENT_REPORTS implements ITestListener {
 	   }
 	   
 	   
+	}*/
+   
+   
+	public void onTestFailure(ITestResult result) {
+		// TODO Auto-generated method stub
+		
+		WEBDRIVERUTILITY wLib = new WEBDRIVERUTILITY();
+		//JavaUtility jLib = new JavaUtility();
+		
+		String methodName = result.getMethod().getMethodName();
+		String screenShotName = methodName+"-"+wLib.getSystemDateInFormat();
+		
+		try {
+			
+			String path = wLib.takeScreenShot(BASECLASS_ATEST.driver, screenShotName);
+			
+			test.addScreenCaptureFromPath(path);
+			
+			test.log(Status.PASS, methodName+" -- FAIL");
+			test.log(Status.FAIL, result.getThrowable());
+			
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
    
    public void onTestFailedButWithinSuccessPercentage(ITestResult result) {

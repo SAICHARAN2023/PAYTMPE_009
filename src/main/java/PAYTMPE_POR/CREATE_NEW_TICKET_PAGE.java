@@ -3,6 +3,7 @@ package PAYTMPE_POR;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.testng.Assert;
 
 import Sample_Util.BaseClass;
 
@@ -28,13 +29,19 @@ public class CREATE_NEW_TICKET_PAGE extends BaseClass{
 	@FindBy(xpath="//button[@type='submit']")
 	WebElement User_submitLink;
 	
+	@FindBy(xpath="//span[@class='msg']")
+	WebElement User_ticketcreatedsucessfully;
 	
+	//*[.=' New ticket created successfully ']
 	
 	public void User_SubmitLink() {
 		User_submitLink.click();
 	}
 	
-	
+	public void  User_ticketcreatedsucessfully() {
+		String p1=User_ticketcreatedsucessfully.getText();
+		Assert.assertEquals(p1, "New ticket created successfully");
+	}
 	public void  User_messageLink(String msg) {
 		User_messageLink.sendKeys(msg);
 	}

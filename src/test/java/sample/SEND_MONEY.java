@@ -32,6 +32,8 @@ public class SEND_MONEY extends BASECLASS_ATEST {
 		logger.info("written notes paragraph");
 		SMP.User_SubmitLink();
 		logger.info("clicked on submit");
+		SMP.User_MoneyTransferedsucessfully();
+		logger.info("page vaidated");
 	}
 	
 	
