@@ -18,7 +18,7 @@ public class AddUser extends ADMIN_BASECLASS{
 		while(true) {
 	WireTransferPage WTP=new WireTransferPage(driver);
 	WTP.Admin_WireTransfer();
-	Thread.sleep(3000);
+	Thread.sleep(1000);
 	WTP.Admin_WireTransferreject();
 	/*WTP.Admin_SupportTickets();
 
