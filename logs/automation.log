@@ -282,3 +282,25 @@
 16:13:30.938 [main] INFO  sample.PAYMENT_REQUEST - written notes paragraph
 16:13:32.688 [main] INFO  sample.PAYMENT_REQUEST - clicked on submit
 16:13:32.753 [main] INFO  sample.PAYMENT_REQUEST - page vaidated
+11:20:24.699 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+11:20:25.618 [main] INFO  sample.DASHBOARD_01 - clicked on support ticket
+11:20:27.418 [main] INFO  sample.DASHBOARD_01 - clicked on new ticket
+11:20:27.552 [main] INFO  sample.DASHBOARD_01 - written email id
+11:20:27.682 [main] INFO  sample.DASHBOARD_01 - written password id
+11:20:29.824 [main] INFO  sample.DASHBOARD_01 -  clicked on submit id
+11:20:29.872 [main] INFO  sample.DASHBOARD_01 -  clicked on tickt created suceesfully
+11:20:44.087 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+11:20:45.019 [main] INFO  sample.DASHBOARD_01 - clicked on support ticket
+11:20:46.893 [main] INFO  sample.DASHBOARD_01 - clicked on new ticket
+11:20:46.977 [main] INFO  sample.DASHBOARD_01 - written email id
+11:20:47.072 [main] INFO  sample.DASHBOARD_01 - written password id
+11:20:49.107 [main] INFO  sample.DASHBOARD_01 -  clicked on submit id
+11:20:49.137 [main] INFO  sample.DASHBOARD_01 -  clicked on tickt created suceesfully
+11:21:04.330 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+11:21:05.295 [main] INFO  sample.DASHBOARD_01 - clicked on support ticket
+11:21:07.219 [main] INFO  sample.DASHBOARD_01 - clicked on new ticket
+11:21:07.320 [main] INFO  sample.DASHBOARD_01 - written email id
+11:21:07.424 [main] INFO  sample.DASHBOARD_01 - written password id
+11:21:09.840 [main] INFO  sample.DASHBOARD_01 -  clicked on submit id
+11:21:09.871 [main] INFO  sample.DASHBOARD_01 -  clicked on tickt created suceesfully
+11:21:27.233 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
