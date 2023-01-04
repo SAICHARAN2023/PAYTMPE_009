@@ -1,0 +1,284 @@
+16:06:17.691 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+16:06:28.097 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+16:06:29.104 [main] INFO  sample.DASHBOARD_01 - clicked on support ticket
+16:06:31.073 [main] INFO  sample.DASHBOARD_01 - clicked on new ticket
+16:06:31.174 [main] INFO  sample.DASHBOARD_01 - written email id
+16:06:31.271 [main] INFO  sample.DASHBOARD_01 - written password id
+16:06:34.394 [main] INFO  sample.DASHBOARD_01 -  clicked on submit id
+16:06:34.451 [main] INFO  sample.DASHBOARD_01 -  clicked on tickt created suceesfully
+16:06:42.482 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+16:06:43.449 [main] INFO  sample.DASHBOARD_01 - clicked on support ticket
+16:06:45.176 [main] INFO  sample.DASHBOARD_01 - clicked on new ticket
+16:06:45.255 [main] INFO  sample.DASHBOARD_01 - written email id
+16:06:45.373 [main] INFO  sample.DASHBOARD_01 - written password id
+16:06:47.936 [main] INFO  sample.DASHBOARD_01 -  clicked on submit id
+16:06:47.973 [main] INFO  sample.DASHBOARD_01 -  clicked on tickt created suceesfully
+16:06:56.408 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+16:06:57.377 [main] INFO  sample.DASHBOARD_01 - clicked on support ticket
+16:07:00.354 [main] INFO  sample.DASHBOARD_01 - clicked on new ticket
+16:07:00.632 [main] INFO  sample.DASHBOARD_01 - written email id
+16:07:00.857 [main] INFO  sample.DASHBOARD_01 - written password id
+16:07:05.796 [main] INFO  sample.DASHBOARD_01 -  clicked on submit id
+16:07:05.866 [main] INFO  sample.DASHBOARD_01 -  clicked on tickt created suceesfully
+16:07:15.087 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+16:07:26.884 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+16:07:27.798 [main] INFO  sample.DASHBOARD_01 - clicked on support ticket
+16:07:29.711 [main] INFO  sample.DASHBOARD_01 - clicked on new ticket
+16:07:29.844 [main] INFO  sample.DASHBOARD_01 - written email id
+16:07:29.960 [main] INFO  sample.DASHBOARD_01 - written password id
+16:07:33.164 [main] INFO  sample.DASHBOARD_01 -  clicked on submit id
+16:07:33.272 [main] INFO  sample.DASHBOARD_01 -  clicked on tickt created suceesfully
+16:07:42.144 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+16:07:43.072 [main] INFO  sample.DASHBOARD_01 - clicked on support ticket
+16:07:44.830 [main] INFO  sample.DASHBOARD_01 - clicked on new ticket
+16:07:44.935 [main] INFO  sample.DASHBOARD_01 - written email id
+16:07:45.043 [main] INFO  sample.DASHBOARD_01 - written password id
+16:07:48.942 [main] INFO  sample.DASHBOARD_01 -  clicked on submit id
+16:07:49.041 [main] INFO  sample.DASHBOARD_01 -  clicked on tickt created suceesfully
+16:07:56.791 [main] INFO  sample.DASHBOARD_01 - clicked on dashboard login button
+16:07:57.678 [main] INFO  sample.DASHBOARD_01 - clicked on support ticket
+16:07:59.543 [main] INFO  sample.DASHBOARD_01 - clicked on new ticket
+16:07:59.664 [main] INFO  sample.DASHBOARD_01 - written email id
+16:07:59.768 [main] INFO  sample.DASHBOARD_01 - written password id
+16:08:02.470 [main] INFO  sample.DASHBOARD_01 -  clicked on submit id
+16:08:02.505 [main] INFO  sample.DASHBOARD_01 -  clicked on tickt created suceesfully
+16:08:16.104 [main] INFO  sample.SEND_MONEY - clicked on send money
+16:08:16.330 [main] INFO  sample.SEND_MONEY - written accno 
+16:08:16.669 [main] INFO  sample.SEND_MONEY - written currency id
+16:08:16.795 [main] INFO  sample.SEND_MONEY - written currency id_2
+16:08:16.977 [main] INFO  sample.SEND_MONEY - written notes paragraph
+16:08:18.073 [main] INFO  sample.SEND_MONEY - clicked on submit
+16:08:18.129 [main] INFO  sample.SEND_MONEY - page vaidated
+16:08:25.074 [main] INFO  sample.SEND_MONEY - clicked on send money
+16:08:25.176 [main] INFO  sample.SEND_MONEY - written accno 
+16:08:25.321 [main] INFO  sample.SEND_MONEY - written currency id
+16:08:25.400 [main] INFO  sample.SEND_MONEY - written currency id_2
+16:08:25.547 [main] INFO  sample.SEND_MONEY - written notes paragraph
+16:08:26.925 [main] INFO  sample.SEND_MONEY - clicked on submit
+16:08:26.958 [main] INFO  sample.SEND_MONEY - page vaidated
+16:08:33.118 [main] INFO  sample.SEND_MONEY - clicked on send money
+16:08:33.280 [main] INFO  sample.SEND_MONEY - written accno 
+16:08:33.695 [main] INFO  sample.SEND_MONEY - written currency id
+16:08:35.278 [main] INFO  sample.SEND_MONEY - written currency id_2
+16:08:35.610 [main] INFO  sample.SEND_MONEY - written notes paragraph
+16:08:37.264 [main] INFO  sample.SEND_MONEY - clicked on submit
+16:08:37.394 [main] INFO  sample.SEND_MONEY - page vaidated
+16:08:44.218 [main] INFO  sample.SEND_MONEY - clicked on send money
+16:08:44.305 [main] INFO  sample.SEND_MONEY - written accno 
+16:08:44.458 [main] INFO  sample.SEND_MONEY - written currency id
+16:08:44.544 [main] INFO  sample.SEND_MONEY - written currency id_2
+16:08:44.659 [main] INFO  sample.SEND_MONEY - written notes paragraph
+16:08:46.207 [main] INFO  sample.SEND_MONEY - clicked on submit
+16:08:46.239 [main] INFO  sample.SEND_MONEY - page vaidated
+16:08:52.732 [main] INFO  sample.SEND_MONEY - clicked on send money
+16:08:52.837 [main] INFO  sample.SEND_MONEY - written accno 
+16:08:52.974 [main] INFO  sample.SEND_MONEY - written currency id
+16:08:53.056 [main] INFO  sample.SEND_MONEY - written currency id_2
+16:08:53.242 [main] INFO  sample.SEND_MONEY - written notes paragraph
+16:08:55.290 [main] INFO  sample.SEND_MONEY - clicked on submit
+16:08:55.337 [main] INFO  sample.SEND_MONEY - page vaidated
+16:09:03.373 [main] INFO  sample.SEND_MONEY - clicked on send money
+16:09:03.480 [main] INFO  sample.SEND_MONEY - written accno 
+16:09:03.646 [main] INFO  sample.SEND_MONEY - written currency id
+16:09:03.741 [main] INFO  sample.SEND_MONEY - written currency id_2
+16:09:03.862 [main] INFO  sample.SEND_MONEY - written notes paragraph
+16:09:05.375 [main] INFO  sample.SEND_MONEY - clicked on submit
+16:09:05.407 [main] INFO  sample.SEND_MONEY - page vaidated
+16:09:12.062 [main] INFO  sample.SEND_MONEY - clicked on send money
+16:09:12.160 [main] INFO  sample.SEND_MONEY - written accno 
+16:09:12.292 [main] INFO  sample.SEND_MONEY - written currency id
+16:09:12.376 [main] INFO  sample.SEND_MONEY - written currency id_2
+16:09:12.514 [main] INFO  sample.SEND_MONEY - written notes paragraph
+16:09:14.194 [main] INFO  sample.SEND_MONEY - clicked on submit
+16:09:14.264 [main] INFO  sample.SEND_MONEY - page vaidated
+16:09:21.237 [main] INFO  sample.SEND_MONEY - clicked on send money
+16:09:21.383 [main] INFO  sample.SEND_MONEY - written accno 
+16:09:21.653 [main] INFO  sample.SEND_MONEY - written currency id
+16:09:21.792 [main] INFO  sample.SEND_MONEY - written currency id_2
+16:09:21.956 [main] INFO  sample.SEND_MONEY - written notes paragraph
+16:09:23.507 [main] INFO  sample.SEND_MONEY - clicked on submit
+16:09:23.543 [main] INFO  sample.SEND_MONEY - page vaidated
+16:09:54.779 [main] INFO  sample.EXCHANGE_MONEY - clicked on exchange money
+16:09:54.984 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency_01
+16:09:55.385 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency _02
+16:09:55.471 [main] INFO  sample.EXCHANGE_MONEY - clicked on amount to be exchange
+16:09:55.578 [main] INFO  sample.EXCHANGE_MONEY - write on note to be
+16:09:56.923 [main] INFO  sample.EXCHANGE_MONEY - clicked on submit button
+16:09:56.963 [main] INFO  sample.EXCHANGE_MONEY - page vaidated
+16:10:04.156 [main] INFO  sample.EXCHANGE_MONEY - clicked on exchange money
+16:10:04.328 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency_01
+16:10:04.516 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency _02
+16:10:04.643 [main] INFO  sample.EXCHANGE_MONEY - clicked on amount to be exchange
+16:10:04.754 [main] INFO  sample.EXCHANGE_MONEY - write on note to be
+16:10:06.269 [main] INFO  sample.EXCHANGE_MONEY - clicked on submit button
+16:10:06.310 [main] INFO  sample.EXCHANGE_MONEY - page vaidated
+16:10:12.762 [main] INFO  sample.EXCHANGE_MONEY - clicked on exchange money
+16:10:12.883 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency_01
+16:10:13.003 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency _02
+16:10:13.076 [main] INFO  sample.EXCHANGE_MONEY - clicked on amount to be exchange
+16:10:13.159 [main] INFO  sample.EXCHANGE_MONEY - write on note to be
+16:10:14.907 [main] INFO  sample.EXCHANGE_MONEY - clicked on submit button
+16:10:14.950 [main] INFO  sample.EXCHANGE_MONEY - page vaidated
+16:10:21.201 [main] INFO  sample.EXCHANGE_MONEY - clicked on exchange money
+16:10:21.316 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency_01
+16:10:21.439 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency _02
+16:10:21.508 [main] INFO  sample.EXCHANGE_MONEY - clicked on amount to be exchange
+16:10:21.585 [main] INFO  sample.EXCHANGE_MONEY - write on note to be
+16:10:23.346 [main] INFO  sample.EXCHANGE_MONEY - clicked on submit button
+16:10:23.377 [main] INFO  sample.EXCHANGE_MONEY - page vaidated
+16:10:29.737 [main] INFO  sample.EXCHANGE_MONEY - clicked on exchange money
+16:10:29.860 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency_01
+16:10:29.978 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency _02
+16:10:30.057 [main] INFO  sample.EXCHANGE_MONEY - clicked on amount to be exchange
+16:10:30.153 [main] INFO  sample.EXCHANGE_MONEY - write on note to be
+16:10:31.857 [main] INFO  sample.EXCHANGE_MONEY - clicked on submit button
+16:10:31.904 [main] INFO  sample.EXCHANGE_MONEY - page vaidated
+16:10:38.522 [main] INFO  sample.EXCHANGE_MONEY - clicked on exchange money
+16:10:38.633 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency_01
+16:10:38.738 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency _02
+16:10:38.806 [main] INFO  sample.EXCHANGE_MONEY - clicked on amount to be exchange
+16:10:38.888 [main] INFO  sample.EXCHANGE_MONEY - write on note to be
+16:10:40.508 [main] INFO  sample.EXCHANGE_MONEY - clicked on submit button
+16:10:40.542 [main] INFO  sample.EXCHANGE_MONEY - page vaidated
+16:10:46.958 [main] INFO  sample.EXCHANGE_MONEY - clicked on exchange money
+16:10:47.088 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency_01
+16:10:47.211 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency _02
+16:10:47.303 [main] INFO  sample.EXCHANGE_MONEY - clicked on amount to be exchange
+16:10:47.406 [main] INFO  sample.EXCHANGE_MONEY - write on note to be
+16:10:49.036 [main] INFO  sample.EXCHANGE_MONEY - clicked on submit button
+16:10:49.067 [main] INFO  sample.EXCHANGE_MONEY - page vaidated
+16:10:54.919 [main] INFO  sample.EXCHANGE_MONEY - clicked on exchange money
+16:10:55.089 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency_01
+16:10:55.217 [main] INFO  sample.EXCHANGE_MONEY - clicked on currency _02
+16:10:55.285 [main] INFO  sample.EXCHANGE_MONEY - clicked on amount to be exchange
+16:10:55.373 [main] INFO  sample.EXCHANGE_MONEY - write on note to be
+16:10:56.808 [main] INFO  sample.EXCHANGE_MONEY - clicked on submit button
+16:10:56.835 [main] INFO  sample.EXCHANGE_MONEY - page vaidated
+16:11:10.273 [main] INFO  sample.WIRE_TRANSFER - clicked on wire transfer
+16:11:10.721 [main] INFO  sample.WIRE_TRANSFER - written bank name id
+16:11:10.824 [main] INFO  sample.WIRE_TRANSFER - written other bank accno id
+16:11:10.954 [main] INFO  sample.WIRE_TRANSFER - written holder name id
+16:11:11.046 [main] INFO  sample.WIRE_TRANSFER - written amount to be accept id
+16:11:11.190 [main] INFO  sample.WIRE_TRANSFER - written notes in Para
+16:11:12.306 [main] INFO  sample.WIRE_TRANSFER - clicked on submit
+16:11:12.338 [main] INFO  sample.WIRE_TRANSFER - page vaidated
+16:11:18.921 [main] INFO  sample.WIRE_TRANSFER - clicked on wire transfer
+16:11:19.057 [main] INFO  sample.WIRE_TRANSFER - written bank name id
+16:11:19.156 [main] INFO  sample.WIRE_TRANSFER - written other bank accno id
+16:11:19.261 [main] INFO  sample.WIRE_TRANSFER - written holder name id
+16:11:19.356 [main] INFO  sample.WIRE_TRANSFER - written amount to be accept id
+16:11:19.676 [main] INFO  sample.WIRE_TRANSFER - written notes in Para
+16:11:20.739 [main] INFO  sample.WIRE_TRANSFER - clicked on submit
+16:11:20.774 [main] INFO  sample.WIRE_TRANSFER - page vaidated
+16:11:28.993 [main] INFO  sample.WIRE_TRANSFER - clicked on wire transfer
+16:11:29.179 [main] INFO  sample.WIRE_TRANSFER - written bank name id
+16:11:29.284 [main] INFO  sample.WIRE_TRANSFER - written other bank accno id
+16:11:29.399 [main] INFO  sample.WIRE_TRANSFER - written holder name id
+16:11:29.497 [main] INFO  sample.WIRE_TRANSFER - written amount to be accept id
+16:11:29.580 [main] INFO  sample.WIRE_TRANSFER - written notes in Para
+16:11:30.610 [main] INFO  sample.WIRE_TRANSFER - clicked on submit
+16:11:30.636 [main] INFO  sample.WIRE_TRANSFER - page vaidated
+16:11:37.050 [main] INFO  sample.WIRE_TRANSFER - clicked on wire transfer
+16:11:37.157 [main] INFO  sample.WIRE_TRANSFER - written bank name id
+16:11:37.300 [main] INFO  sample.WIRE_TRANSFER - written other bank accno id
+16:11:37.467 [main] INFO  sample.WIRE_TRANSFER - written holder name id
+16:11:37.634 [main] INFO  sample.WIRE_TRANSFER - written amount to be accept id
+16:11:37.734 [main] INFO  sample.WIRE_TRANSFER - written notes in Para
+16:11:38.785 [main] INFO  sample.WIRE_TRANSFER - clicked on submit
+16:11:38.818 [main] INFO  sample.WIRE_TRANSFER - page vaidated
+16:11:45.237 [main] INFO  sample.WIRE_TRANSFER - clicked on wire transfer
+16:11:45.384 [main] INFO  sample.WIRE_TRANSFER - written bank name id
+16:11:45.501 [main] INFO  sample.WIRE_TRANSFER - written other bank accno id
+16:11:45.616 [main] INFO  sample.WIRE_TRANSFER - written holder name id
+16:11:45.697 [main] INFO  sample.WIRE_TRANSFER - written amount to be accept id
+16:11:45.773 [main] INFO  sample.WIRE_TRANSFER - written notes in Para
+16:11:46.689 [main] INFO  sample.WIRE_TRANSFER - clicked on submit
+16:11:46.725 [main] INFO  sample.WIRE_TRANSFER - page vaidated
+16:11:53.527 [main] INFO  sample.WIRE_TRANSFER - clicked on wire transfer
+16:11:53.667 [main] INFO  sample.WIRE_TRANSFER - written bank name id
+16:11:53.784 [main] INFO  sample.WIRE_TRANSFER - written other bank accno id
+16:11:53.983 [main] INFO  sample.WIRE_TRANSFER - written holder name id
+16:11:54.096 [main] INFO  sample.WIRE_TRANSFER - written amount to be accept id
+16:11:54.188 [main] INFO  sample.WIRE_TRANSFER - written notes in Para
+16:11:55.479 [main] INFO  sample.WIRE_TRANSFER - clicked on submit
+16:11:55.519 [main] INFO  sample.WIRE_TRANSFER - page vaidated
+16:12:04.736 [main] INFO  sample.WIRE_TRANSFER - clicked on wire transfer
+16:12:04.961 [main] INFO  sample.WIRE_TRANSFER - written bank name id
+16:12:05.104 [main] INFO  sample.WIRE_TRANSFER - written other bank accno id
+16:12:05.256 [main] INFO  sample.WIRE_TRANSFER - written holder name id
+16:12:05.429 [main] INFO  sample.WIRE_TRANSFER - written amount to be accept id
+16:12:05.654 [main] INFO  sample.WIRE_TRANSFER - written notes in Para
+16:12:06.887 [main] INFO  sample.WIRE_TRANSFER - clicked on submit
+16:12:06.929 [main] INFO  sample.WIRE_TRANSFER - page vaidated
+16:12:13.919 [main] INFO  sample.WIRE_TRANSFER - clicked on wire transfer
+16:12:14.069 [main] INFO  sample.WIRE_TRANSFER - written bank name id
+16:12:14.178 [main] INFO  sample.WIRE_TRANSFER - written other bank accno id
+16:12:14.291 [main] INFO  sample.WIRE_TRANSFER - written holder name id
+16:12:14.392 [main] INFO  sample.WIRE_TRANSFER - written amount to be accept id
+16:12:14.574 [main] INFO  sample.WIRE_TRANSFER - written notes in Para
+16:12:16.193 [main] INFO  sample.WIRE_TRANSFER - clicked on submit
+16:12:16.306 [main] INFO  sample.WIRE_TRANSFER - page vaidated
+16:12:28.543 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money request
+16:12:29.395 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money New Payment
+16:12:29.503 [main] INFO  sample.PAYMENT_REQUEST - written accno
+16:12:29.663 [main] INFO  sample.PAYMENT_REQUEST - written currency id
+16:12:29.758 [main] INFO  sample.PAYMENT_REQUEST - written currency id_2
+16:12:29.905 [main] INFO  sample.PAYMENT_REQUEST - written notes paragraph
+16:12:31.223 [main] INFO  sample.PAYMENT_REQUEST - clicked on submit
+16:12:31.255 [main] INFO  sample.PAYMENT_REQUEST - page vaidated
+16:12:37.428 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money request
+16:12:38.175 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money New Payment
+16:12:38.263 [main] INFO  sample.PAYMENT_REQUEST - written accno
+16:12:38.389 [main] INFO  sample.PAYMENT_REQUEST - written currency id
+16:12:38.478 [main] INFO  sample.PAYMENT_REQUEST - written currency id_2
+16:12:38.586 [main] INFO  sample.PAYMENT_REQUEST - written notes paragraph
+16:12:40.123 [main] INFO  sample.PAYMENT_REQUEST - clicked on submit
+16:12:40.150 [main] INFO  sample.PAYMENT_REQUEST - page vaidated
+16:12:45.730 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money request
+16:12:46.411 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money New Payment
+16:12:46.555 [main] INFO  sample.PAYMENT_REQUEST - written accno
+16:12:46.763 [main] INFO  sample.PAYMENT_REQUEST - written currency id
+16:12:46.907 [main] INFO  sample.PAYMENT_REQUEST - written currency id_2
+16:12:47.070 [main] INFO  sample.PAYMENT_REQUEST - written notes paragraph
+16:12:48.374 [main] INFO  sample.PAYMENT_REQUEST - clicked on submit
+16:12:48.403 [main] INFO  sample.PAYMENT_REQUEST - page vaidated
+16:12:54.348 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money request
+16:12:55.161 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money New Payment
+16:12:55.284 [main] INFO  sample.PAYMENT_REQUEST - written accno
+16:12:55.424 [main] INFO  sample.PAYMENT_REQUEST - written currency id
+16:12:55.492 [main] INFO  sample.PAYMENT_REQUEST - written currency id_2
+16:12:55.594 [main] INFO  sample.PAYMENT_REQUEST - written notes paragraph
+16:12:57.129 [main] INFO  sample.PAYMENT_REQUEST - clicked on submit
+16:12:57.167 [main] INFO  sample.PAYMENT_REQUEST - page vaidated
+16:13:03.560 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money request
+16:13:04.259 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money New Payment
+16:13:04.369 [main] INFO  sample.PAYMENT_REQUEST - written accno
+16:13:04.490 [main] INFO  sample.PAYMENT_REQUEST - written currency id
+16:13:04.559 [main] INFO  sample.PAYMENT_REQUEST - written currency id_2
+16:13:04.655 [main] INFO  sample.PAYMENT_REQUEST - written notes paragraph
+16:13:06.189 [main] INFO  sample.PAYMENT_REQUEST - clicked on submit
+16:13:06.217 [main] INFO  sample.PAYMENT_REQUEST - page vaidated
+16:13:12.141 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money request
+16:13:12.819 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money New Payment
+16:13:12.907 [main] INFO  sample.PAYMENT_REQUEST - written accno
+16:13:13.038 [main] INFO  sample.PAYMENT_REQUEST - written currency id
+16:13:13.117 [main] INFO  sample.PAYMENT_REQUEST - written currency id_2
+16:13:13.235 [main] INFO  sample.PAYMENT_REQUEST - written notes paragraph
+16:13:14.844 [main] INFO  sample.PAYMENT_REQUEST - clicked on submit
+16:13:14.873 [main] INFO  sample.PAYMENT_REQUEST - page vaidated
+16:13:20.843 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money request
+16:13:21.587 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money New Payment
+16:13:21.672 [main] INFO  sample.PAYMENT_REQUEST - written accno
+16:13:21.806 [main] INFO  sample.PAYMENT_REQUEST - written currency id
+16:13:21.908 [main] INFO  sample.PAYMENT_REQUEST - written currency id_2
+16:13:22.041 [main] INFO  sample.PAYMENT_REQUEST - written notes paragraph
+16:13:23.903 [main] INFO  sample.PAYMENT_REQUEST - clicked on submit
+16:13:23.934 [main] INFO  sample.PAYMENT_REQUEST - page vaidated
+16:13:29.624 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money request
+16:13:30.313 [main] INFO  sample.PAYMENT_REQUEST - clicked on  money New Payment
+16:13:30.475 [main] INFO  sample.PAYMENT_REQUEST - written accno
+16:13:30.699 [main] INFO  sample.PAYMENT_REQUEST - written currency id
+16:13:30.795 [main] INFO  sample.PAYMENT_REQUEST - written currency id_2
+16:13:30.938 [main] INFO  sample.PAYMENT_REQUEST - written notes paragraph
+16:13:32.688 [main] INFO  sample.PAYMENT_REQUEST - clicked on submit
+16:13:32.753 [main] INFO  sample.PAYMENT_REQUEST - page vaidated
