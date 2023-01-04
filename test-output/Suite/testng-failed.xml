@@ -11,7 +11,7 @@
           <include name="setup"/>
           <include name="Teardown"/>
           <include name="login"/>
-          <include name="SUPPORTTICKET" invocation-numbers="0 1 2 3 4 5 6 7"/>
+          <include name="SUPPORTTICKET" invocation-numbers="0 4"/>
           <include name="logout"/>
         </methods>
       </class> <!-- sample.DASHBOARD_01 -->

@@ -29,8 +29,7 @@ public class CREATE_NEW_TICKET_PAGE extends BaseClass{
 	@FindBy(xpath="//button[@type='submit']")
 	WebElement User_submitLink;
 	
-	@FindBy(xpath="//span[@class='msg']")
-	WebElement User_ticketcreatedsucessfully;
+	
 	
 	//*[.=' New ticket created successfully ']
 	
@@ -38,10 +37,15 @@ public class CREATE_NEW_TICKET_PAGE extends BaseClass{
 		User_submitLink.click();
 	}
 	
+	@FindBy(xpath="//span[@class='msg']")
+	WebElement User_ticketcreatedsucessfully;
+	
 	public void  User_ticketcreatedsucessfully() {
 		String p1=User_ticketcreatedsucessfully.getText();
 		Assert.assertEquals(p1, "New ticket created successfully");
 	}
+	
+	
 	public void  User_messageLink(String msg) {
 		User_messageLink.sendKeys(msg);
 	}

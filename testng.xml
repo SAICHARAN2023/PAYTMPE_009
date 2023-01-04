@@ -13,6 +13,7 @@
          <class name="sample.EXCHANGE_MONEY"/>
             <class name="sample.WIRE_TRANSFER"/>
              <class name="sample.PAYMENT_REQUEST"/>
+             <class name="Admin_Testcase.AddUser"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
